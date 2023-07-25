@@ -1,0 +1,5 @@
+outs:
+- md5: c0fc5aeb812031be2f880b2d78267dcc.dir
+  size: 869251982
+  nfiles: 30
+  path: dictionaries

@@ -1,0 +1,8 @@
+for
+until
+continue
+continued
+over
+and
+of
+x

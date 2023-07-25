@@ -1,0 +1,15 @@
+year
+one-year
+years
+month
+months
+week
+weeks
+day
+days
+yr
+yrs
+mo
+wk
+mos
+wks

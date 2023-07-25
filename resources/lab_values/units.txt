@@ -1,0 +1,505 @@
+inr
+%
+10*12/l
+10*3
+10*3 iu/24 h
+10*3 iu/l
+10*3/mm3
+10*3/ul
+10*6
+10*6 eq/ml
+10*6/d
+10*6/l
+10*6/ml
+10*6/ul
+10*9/l
+10*9/ul
+10-9 mol/l
+acu/ml
+akat
+angstrom
+aru
+attct repeats
+au/ml
+beats/min
+bp
+breaths/min
+cells/ul
+cfu/g
+cgg repeats
+cgy
+ch 100 units/ml
+ch 50 u/ml
+clock time
+cm
+cm h2o
+cm/cm
+cm/s
+cm2
+cm3
+coefficient of variation
+copies
+copies/l
+copies/ml
+copies/ul
+cp
+cpm
+ctcs/7.5 ml
+ctg repeats
+d
+dapa
+days
+days/12 mo
+days/3 mo
+days/30 days
+days/5 days
+days/7 days
+days/mo
+days/week
+deg
+deg c
+deg f
+dils
+diopter
+dye units
+dyn.s/cm5
+ehrlich units/100 g
+ehrlich units/24 h
+ehrlich units/dl
+eia index
+eia units
+elisa index
+elisa units
+eq/ml
+ery/ul
+eu
+eu/ml
+eus
+feet/day
+feet/week
+fl
+fl/nl
+fmol
+fmol/l
+fmol/mg
+fmol/mg protein
+fraction
+ft
+ft-in
+ft/ft
+g
+g/10 h
+g/100 g
+g/12 h
+g/18 h
+g/2 h
+g/24 h
+g/4 h
+g/48 h
+g/5 h
+g/6 h
+g/72 h
+g/8 h
+g/cm2
+g/d
+g/dl
+g/g creatinine
+g/kg
+g/l
+g/ml
+g/mmol
+g/mmol creatinine
+gaa repeats
+gf/cm2
+gm
+gm/l
+gm/mmol_cre
+gpl u
+gps u
+grams
+h
+hhmm
+hhmm/night
+hours
+hours/5 days
+hours/days
+hours/night
+hours/session
+hours/week
+hr
+hz
+ifa titer
+in
+inches
+index
+index value
+isr
+iu/24 h
+iu/24h
+iu/dl
+iu/g creatinine
+iu/l
+iu/ml
+k/ul
+kcal
+kcal/24 h
+kcal/24h
+kcal/day
+kcal/week
+kd/s
+keu/l
+kg
+kg/m2
+kilometers
+kiu/l
+kiu/ml
+km
+km/24 h
+km/24h
+km/h
+km/wk
+kpa
+ku/l
+ku/ml
+l
+l/24 h
+l/24h
+l/l
+l/min
+l/s
+lb
+lb-oz
+lb/d
+lbf
+leu/ul
+liley unit
+liters
+liv
+log copies/ml
+log iu/ml
+log reduction
+lu
+m
+m-cm
+m.o.m
+m/6 min
+m/s
+m/ul
+m2
+mcg/100mg
+mcg/dl
+mcg/g creatinine
+mcg/gm
+mcg/gm cr
+mcg/l
+mcg/mg cr
+mcg/ml
+mcmol/dl
+mcmol/l
+mcu/ml
+meq/12h
+meq/24 h
+meq/d
+meq/g
+meq/g creatinine
+meq/kg
+meq/kg liq stl
+meq/l
+mg
+mg/100 g
+mg/100g
+mg/12 h
+mg/12h
+mg/18 h
+mg/18h
+mg/2 h
+mg/24 h
+mg/24h
+mg/24h
+mg/2h
+mg/4 h
+mg/48 h
+mg/48h
+mg/4h
+mg/6 h
+mg/6h
+mg/72 h
+mg/72h
+mg/d
+mg/dl
+mg/g
+mg/h
+mg/kg
+mg/l
+mg/m3
+mg/ml
+mg2/dl2
+mgAlb/gCre
+mi
+mi/24 h
+mi/24h
+mi/h
+mi/wk
+miles
+min
+min/d
+minutes
+miu/24 h
+miu/24h
+miu/l
+miu/ml
+mj
+mkat/l
+ml/24 h
+ml/24h
+ml/7 d
+ml/72 h
+ml/72h
+ml/7d
+ml/beat
+ml/dl
+ml/kg
+ml/lb
+ml/min
+ml/s
+ml/sec
+mm
+mm/15 min
+mm/15min
+mm/2 h
+mm/2h
+mm/h
+mm/mm
+mm2
+mm3
+mmddyy
+mmol
+mmol/100 g
+mmol/100g
+mmol/12 h
+mmol/12h
+mmol/18 h
+mmol/18h
+mmol/2 h
+mmol/24 h
+mmol/24h
+mmol/2h
+mmol/4 h
+mmol/4h
+mmol/5 h
+mmol/5h
+mmol/6 h
+mmol/6h
+mmol/72 h
+mmol/72h
+mmol/cp
+mmol/d
+mmol/dl
+mmol/g
+mmol/h
+mmol/kg
+mmol/l
+mmol/ml
+mmol/mmol
+mmol/mol
+mmol2/l2
+mmyyyy
+mo
+mo/year
+mol/24 h
+mol/24h
+mol/kg
+mol/l
+mol/mol
+mosm/kg
+mosm/kg water
+mosm/l
+mosmol/kg
+mph
+mpl u
+mps u
+ms
+mu/g hb
+mu/l
+mu/ml
+mu/mmol creatinine
+mv
+mv/s
+mw
+ng ab n/ml
+ng/24 h
+ng/dl
+ng/g
+ng/g creatinine
+ng/l
+ng/l
+ng/l
+ng/mg creatinine
+ng/ml
+ng/mol creatinine
+ng/ng
+ng/ng creatinine
+nm
+nmol bce/l
+nmol/10*7
+nmol/10*9
+nmol/24 h
+nmol/d
+nmol/dl
+nmol/g
+nmol/g creatinine
+nmol/g hb
+nmol/kg faeces
+nmol/l
+nmol/l
+nmol/mg
+nmol/mg creatinine
+nmol/mg protein
+nmol/min
+nmol/ml
+nmol/ml rbc
+nmol/mmo
+nmol/mmol
+nmol/mmol creat
+nmol/mmol creatinine
+nmol/mol creatinine
+nmol/nmol
+nmole/mmole_cr
+nmoles/ml
+od ratio
+od units
+osm/kg
+oz
+oz/wk
+peiu/ml
+pg
+pg/dl
+pg/g creatinine
+pg/mg creatinine
+pg/ml
+pg/ml
+pg/ml slt
+pg/pg
+ph
+pmol/24 h
+pmol/24h
+pmol/8x10*8 rbc
+pmol/g
+pmol/l
+pmol/l
+pmol/l
+pmol/ml
+pmol/mol
+pmol/mol creatinine
+pound
+pounds
+ppb
+ppg
+ppm
+pru
+psi
+ratio
+rbc/min
+rbcs/ul
+rev
+rfu
+risk
+ru
+ru/ml
+score
+sd
+si
+thous miu/ml
+titer
+tmstp
+todd units
+tscore
+u/10*10 cells
+u/10*12
+u/12 h
+u/12h
+u/18 h
+u/18h
+u/2 h
+u/24 h
+u/24h
+u/2h
+u/d
+u/dl
+u/g
+u/g creatinine
+u/g hb
+u/g protein
+u/gm
+u/h
+u/kg
+u/kg bw
+u/kg hb
+u/kg hgb
+u/l
+u/mg protein
+u/ml
+u/ml rbc
+u/u
+ug
+ug eq/ml
+ug/100g dry wt
+ug/12 h
+ug/24 h
+ug/72 h
+ug/8 h
+ug/dl
+ug/dl
+ug/g
+ug/g cre
+ug/g creatinine
+ug/g hb
+ug/kg
+ug/l
+ug/l ddu
+ug/l feu
+ug/m3
+ug/mg creatinine
+ug/min
+ug/ml
+ug/ml equivalents
+ug/ml feu
+ug/mmol creatinine
+ug/ug
+ug/ul
+ui/l
+uiu/l
+uiu/ml
+ukat/l
+um
+um/gcr
+um/s
+um3
+umol/2 h
+umol/24 h
+umol/24h
+umol/2h
+umol/d
+umol/dl
+umol/ejaculate
+umol/g
+umol/g creatinine
+umol/kg
+umol/l
+umol/ml
+umol/mmol
+umol/mmol creatinine
+umol/mol
+umol/mol cr
+umol/mol crea
+umol/mol creat
+umol/mol creatinine
+umol/mol hb
+umol/umol
+umole/l
+units/l
+units/ml
+uu/ml
+uug
+wbc/min
+wbcs/ul

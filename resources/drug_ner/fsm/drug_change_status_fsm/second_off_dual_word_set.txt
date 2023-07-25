@@ -1,0 +1,5 @@
+off
+stop
+hold
+discontinue
+discontinued

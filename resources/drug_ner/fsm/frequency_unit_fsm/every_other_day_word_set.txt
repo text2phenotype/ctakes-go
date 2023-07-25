@@ -1,0 +1,4 @@
+every-other-day
+every-other-night
+every-other-evening
+every-other-morning

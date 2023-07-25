@@ -1,0 +1,11 @@
+medications
+dose
+dosage
+dosages
+medication
+psychotropic
+taper
+tapering
+to
+complete
+completed
