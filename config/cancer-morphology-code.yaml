@@ -1,0 +1,19 @@
+# request's params to choose a more specific pipeline
+request_params:
+  lookup_mode: code
+params:
+  # parameters for the FDL component
+  FDL:
+    term_dictionary: cancer-morphology/bsv_morphology.bsv
+    term_scheme: CUI|TUI|TTY|CODE|SAB|TXT|STR
+    concept_dictionary: cancer-morphology/bsv_morphology.bsv
+    concept_scheme: CUI|TUI|TTY|CODE|SAB|STR|PREF
+    concept_params_ignore: [STR]
+    exclusion_tags: [VB]
+    precision_mode: True
+
+pipeline: default_clinical
+
+features:
+  - polarity
+

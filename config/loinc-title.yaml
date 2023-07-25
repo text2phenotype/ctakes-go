@@ -1,0 +1,15 @@
+params:
+  # parameters for the FDL component
+  FDL:
+    term_dictionary: loinc-title/loinc_title.bsv
+    term_scheme: CUI|TUI|TTY|CODE|SAB|STR|PREF
+    concept_dictionary: loinc-title/loinc_title.bsv
+    concept_scheme: CUI|TUI|TTY|CODE|SAB|STR|PREF
+    concept_params_ignore: [STR]
+    exclusion_tags: [VB]
+    precision_mode: True
+
+pipeline: default_clinical
+
+features:
+  - polarity

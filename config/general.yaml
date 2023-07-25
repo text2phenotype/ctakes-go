@@ -1,0 +1,16 @@
+params:
+  # parameters for the FDL component
+  FDL:
+    term_dictionary: general/general_term.bsv
+    term_scheme: CUI|STR
+    concept_dictionary: general/general_concept.bsv
+    concept_scheme: CUI|TUI|CODE|SAB|PREF
+    concept_params_ignore: [STR]
+    exclusion_tags: [VB]
+    precision_mode: True
+
+pipeline: default_clinical
+
+features:
+  - polarity
+

@@ -1,0 +1,17 @@
+params:
+  # parameters for the FDL component
+  FDL:
+    term_dictionary: snomedct/snomedct.bsv
+    term_scheme: CUI|TUI|TTY|CODE|SAB|STR|PREF
+    concept_dictionary: snomedct/snomedct.bsv
+    concept_scheme: CUI|TUI|TTY|CODE|SAB|STR|PREF
+    concept_params_ignore: [STR]
+    exclusion_tags: [VB]
+    precision_mode: True
+
+pipeline: default_clinical
+
+features:
+  - lab
+  - drug
+  - polarity

@@ -1,0 +1,14 @@
+params:
+  # parameters for the FDL component
+  FDL:
+    term_dictionary: sectionizer/sectionizer.bsv
+    term_scheme: CUI|TUI|TTY|CODE|SAB|STR|PREF
+    concept_dictionary: sectionizer/sectionizer.bsv
+    concept_scheme: CUI|TUI|TTY|CODE|SAB|STR|PREF
+    concept_params_ignore: [STR]
+    exclusion_tags: [VB]
+    precision_mode: True
+
+# supported pipelines (all enabled by default)
+pipeline: default_clinical
+

@@ -1,0 +1,15 @@
+params:
+  # parameters for the FDL component
+  FDL:
+    term_dictionary: problem/bsv_problem_master.bsv
+    term_scheme: CUI|TUI|TTY|CODE|SAB|STR|PREF
+    concept_dictionary: problem/bsv_problem_master.bsv
+    concept_scheme: CUI|TUI|TTY|CODE|SAB|STR|PREF
+    concept_params_ignore: [STR]
+    exclusion_tags: [VB]
+    precision_mode: True
+
+pipeline: default_clinical
+
+features:
+  - polarity

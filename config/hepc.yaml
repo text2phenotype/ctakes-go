@@ -1,0 +1,18 @@
+params:
+  # parameters for the FDL component
+  FDL:
+    term_dictionary: hepc/hepc.bsv
+    term_scheme: CUI|TUI|CODE|SAB|STR|PREF
+    concept_dictionary: hepc/hepc.bsv
+    concept_scheme: CUI|TUI|CODE|SAB|STR|PREF
+    concept_params_ignore: [STR]
+    exclusion_tags: [VB]
+    precision_mode: True
+
+pipeline: default_clinical
+
+features:
+  - lab
+  - drug
+  - polarity
+
